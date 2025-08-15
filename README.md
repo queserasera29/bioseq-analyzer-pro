@@ -25,16 +25,11 @@ It is designed for students, researchers, and educators to perform **translation
    cd bioseq-analyzer-pro
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the program:
-
-bash
-Copy
-Edit
 python bioseq_analyzer_pro.py
+
 Option 2: Run the Standalone EXE (No Python needed)
 Download the latest .exe from the Releases page
 (or from this Google Drive link).
@@ -64,11 +59,8 @@ Save results if needed by clicking "Save".
 
 📊 Example
 Input DNA Sequence:
-
-nginx
-Copy
-Edit
 ATGCGTACGTAGCTAGTAA
+
 Operations & Results:
 
 Operation	Result
